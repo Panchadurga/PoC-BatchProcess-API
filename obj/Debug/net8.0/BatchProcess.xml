@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BatchProcess</name>
+    </assembly>
+    <members>
+        <member name="T:BatchProcess.Controllers.BatchController">
+            <summary>
+            Controller for handling batch processing operations.
+            </summary>
+        </member>
+        <member name="M:BatchProcess.Controllers.BatchController.#ctor(BatchProcess.Repository.ICustomerRepository)">
+            <summary>
+            Initializes a new instance of the <see cref="T:BatchProcess.Controllers.BatchController"/> class.
+            </summary>
+            <param name="customerRepository">The customer repository to use for data operations.</param>
+        </member>
+        <member name="M:BatchProcess.Controllers.BatchController.BulkUpload(BatchProcess.Dtos.BulkUploadRequest)">
+            <summary>
+            Uploads a batch of customer records.
+            </summary>
+            <param name="request">The bulk upload request containing customer data.</param>
+            <returns>An IActionResult indicating the result of the bulk upload operation.</returns>
+            <response code="200">Returns the success message and records processed.</response>
+            <response code="400">If the request is invalid or has no customer data.</response>
+        </member>
+        <member name="T:BatchProcess.Migrations.AddCustomerTable">
+            <inheritdoc />
+        </member>
+        <member name="M:BatchProcess.Migrations.AddCustomerTable.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:BatchProcess.Migrations.AddCustomerTable.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:BatchProcess.Migrations.AddCustomerTable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

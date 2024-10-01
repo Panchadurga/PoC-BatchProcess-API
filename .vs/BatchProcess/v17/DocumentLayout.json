@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Durga-1\\source\\repos\\Poc-Projects\\BatchProcess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0915AC-8E31-4620-AD72-9FF4A4EF12EF}|BatchProcess.csproj|c:\\users\\durga-1\\source\\repos\\poc-projects\\batchprocess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0915AC-8E31-4620-AD72-9FF4A4EF12EF}|BatchProcess.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0915AC-8E31-4620-AD72-9FF4A4EF12EF}|BatchProcess.csproj|c:\\users\\durga-1\\source\\repos\\poc-projects\\batchprocess\\controllers\\batchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0915AC-8E31-4620-AD72-9FF4A4EF12EF}|BatchProcess.csproj|solutionrelative:controllers\\batchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0915AC-8E31-4620-AD72-9FF4A4EF12EF}|BatchProcess.csproj|c:\\users\\durga-1\\source\\repos\\poc-projects\\batchprocess\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0915AC-8E31-4620-AD72-9FF4A4EF12EF}|BatchProcess.csproj|solutionrelative:repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0915AC-8E31-4620-AD72-9FF4A4EF12EF}|BatchProcess.csproj|c:\\users\\durga-1\\source\\repos\\poc-projects\\batchprocess\\dtos\\bulkuploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0915AC-8E31-4620-AD72-9FF4A4EF12EF}|BatchProcess.csproj|solutionrelative:dtos\\bulkuploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0915AC-8E31-4620-AD72-9FF4A4EF12EF}|BatchProcess.csproj|c:\\users\\durga-1\\source\\repos\\poc-projects\\batchprocess\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0915AC-8E31-4620-AD72-9FF4A4EF12EF}|BatchProcess.csproj|solutionrelative:repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0915AC-8E31-4620-AD72-9FF4A4EF12EF}|BatchProcess.csproj|c:\\users\\durga-1\\source\\repos\\poc-projects\\batchprocess\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0915AC-8E31-4620-AD72-9FF4A4EF12EF}|BatchProcess.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0915AC-8E31-4620-AD72-9FF4A4EF12EF}|BatchProcess.csproj|c:\\users\\durga-1\\source\\repos\\poc-projects\\batchprocess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0915AC-8E31-4620-AD72-9FF4A4EF12EF}|BatchProcess.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0915AC-8E31-4620-AD72-9FF4A4EF12EF}|BatchProcess.csproj|c:\\users\\durga-1\\source\\repos\\poc-projects\\batchprocess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA0915AC-8E31-4620-AD72-9FF4A4EF12EF}|BatchProcess.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 75,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Durga-1\\source\\repos\\Poc-Projects\\BatchProcess\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Durga-1\\source\\repos\\Poc-Projects\\BatchProcess\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "Repository\\CustomerRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwEsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:51:50.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Durga-1\\source\\repos\\Poc-Projects\\BatchProcess\\Repository\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Durga-1\\source\\repos\\Poc-Projects\\BatchProcess\\Repository\\ICustomerRepository.cs",
+              "RelativeToolTip": "Repository\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:51:16.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Durga-1\\source\\repos\\Poc-Projects\\BatchProcess\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Durga-1\\source\\repos\\Poc-Projects\\BatchProcess\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:11:37.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Durga-1\\source\\repos\\Poc-Projects\\BatchProcess\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Durga-1\\source\\repos\\Poc-Projects\\BatchProcess\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T11:10:52.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Durga-1\\source\\repos\\Poc-Projects\\BatchProcess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Durga-1\\source\\repos\\Poc-Projects\\BatchProcess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:49:57.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BatchController.cs",
+              "DocumentMoniker": "C:\\Users\\Durga-1\\source\\repos\\Poc-Projects\\BatchProcess\\Controllers\\BatchController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BatchController.cs",
+              "ToolTip": "C:\\Users\\Durga-1\\source\\repos\\Poc-Projects\\BatchProcess\\Controllers\\BatchController.cs",
+              "RelativeToolTip": "Controllers\\BatchController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAQwC4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:48:54.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BulkUploadRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Durga-1\\source\\repos\\Poc-Projects\\BatchProcess\\Dtos\\BulkUploadRequest.cs",
+              "RelativeDocumentMoniker": "Dtos\\BulkUploadRequest.cs",
+              "ToolTip": "C:\\Users\\Durga-1\\source\\repos\\Poc-Projects\\BatchProcess\\Dtos\\BulkUploadRequest.cs",
+              "RelativeToolTip": "Dtos\\BulkUploadRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:46:30.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Durga-1\\source\\repos\\Poc-Projects\\BatchProcess\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Durga-1\\source\\repos\\Poc-Projects\\BatchProcess\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA5wAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:44:09.821Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 19,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
